@@ -1,0 +1,1289 @@
+{
+  "pink primrose": {
+    "super": [
+      "Flower, Plant, Gardening"
+    ],
+    "sub": [
+      "Mexican evening primrose",
+      "pink evening primrose",
+      "showy evening primrose",
+      "desert evening primrose",
+      "California evening primrose"
+    ]
+  },
+  "hard-leaved pocket orchid": {
+    "super": [
+      "Cattleya",
+      "Dendrobium",
+      "Oncidium"
+    ],
+    "sub": [
+      "Green bird orchid",
+      "Dendrobium crumenatum",
+      "Bulbophyllum dearei",
+      "Dendrobium densiflorum",
+      "Bulbophyllum medusae"
+    ]
+  },
+  "canterbury bells": {
+    "super": [
+      "Bell-shaped flowers",
+      "Perennial plants",
+      "Campanula species"
+    ],
+    "sub": [
+      "White Canterbury bells",
+      "Purple Canterbury bells",
+      "Pink Canterbury bells",
+      "Blue Canterbury bells",
+      "Lavender Canterbury bells"
+    ]
+  },
+  "sweet pea": {
+    "super": [
+      "Annual sweet pea",
+      "Perennial sweet pea",
+      "Everlasting sweet pea"
+    ],
+    "sub": [
+      "- Pink Sweet Pea\n- Purple Sweet Pea\n- White Sweet Pea\n- Red Sweet Pea\n- Blue Sweet Pea"
+    ]
+  },
+  "english marigold": {
+    "super": [
+      "Annual flowers",
+      "Ornamental plants",
+      "Gardening flowers"
+    ],
+    "sub": [
+      "Lemon Gem Marigold",
+      "French Vanilla Marigold",
+      "Red Marietta Marigold",
+      "Disco Red Marigold",
+      "Durango Marigold"
+    ]
+  },
+  "tiger lily": {
+    "super": [
+      "Plant",
+      "Flower",
+      "Garden"
+    ],
+    "sub": [
+      "Golden splendour",
+      "Black beauty",
+      "Red hot",
+      "Citronella",
+      "White triumph"
+    ]
+  },
+  "moon orchid": {
+    "super": [
+      "Phalaenopsis",
+      "Dendrobium",
+      "Vanda"
+    ],
+    "sub": [
+      "- Phalaenopsis amabilis\n- Phalaenopsis aphrodite\n- Phalaenopsis cornu-cervi\n- Phalaenopsis lueddemanniana\n- Phalaenopsis schilleriana"
+    ]
+  },
+  "bird of paradise": {
+    "super": [
+      "Paradisaeidae",
+      "Plant",
+      "Animal"
+    ],
+    "sub": [
+      "Greater bird of paradise",
+      "Lesser bird of paradise",
+      "Raggiana bird of paradise",
+      "Wilson's bird of paradise",
+      "King bird of paradise"
+    ]
+  },
+  "monkshood": {
+    "super": [
+      "Toxic plants",
+      "Flowering plants",
+      "Perennials"
+    ],
+    "sub": [
+      "Common monkshood",
+      "Yellow monkshood",
+      "Japanese monkshood",
+      "Himalayan monkshood",
+      "Eastern monkshood"
+    ]
+  },
+  "globe thistle": {
+    "super": [
+      "Echinops",
+      "Echinops ritro",
+      "Echinops bannaticus"
+    ],
+    "sub": [
+      "Blue Globe Thistle",
+      "Yellow Globe Thistle",
+      "Dwarf Globe Thistle",
+      "Alba Globe Thistle",
+      "Amethyst in Snow Globe Thistle"
+    ]
+  },
+  "snapdragon": {
+    "super": [
+      "Annual Snapdragons",
+      "Perennial Snapdragons",
+      "Dwarf Snapdragons"
+    ],
+    "sub": [
+      "Orchid snapdragon",
+      "Chantilly snapdragon",
+      "Candy Showers snapdragon",
+      "Potomac snapdragon",
+      "Madame Butterfly snapdragon"
+    ]
+  },
+  "colt's foot": {
+    "super": [
+      "Herbs",
+      "Medicinal plants",
+      "Flowers"
+    ],
+    "sub": [
+      "Tussilago farfara",
+      "Petasites frigidus",
+      "Homogyne alpina",
+      "Tussilago",
+      "Petasites"
+    ]
+  },
+  "king protea": {
+    "super": [
+      "Flowers",
+      "Plants",
+      "Nature"
+    ],
+    "sub": [
+      "Pink Ice King Protea",
+      "Blushing Bride King Protea",
+      "Sylvia King Protea",
+      "White King Protea",
+      "Giant King Protea"
+    ]
+  },
+  "spear thistle": {
+    "super": [
+      "Flora",
+      "Plants",
+      "Thistles"
+    ],
+    "sub": [
+      "Common spear thistle",
+      "Welted thistle",
+      "European thistle",
+      "Black thistle",
+      "Marsh thistle"
+    ]
+  },
+  "yellow iris": {
+    "super": [
+      "Diet",
+      "Nutrition",
+      "Health"
+    ],
+    "sub": [
+      "1. Yellow flag iris\n2. Yellow water iris\n3. Yellow Louisiana iris\n4. Yellow Siberian iris\n5. Yellow Japanese iris"
+    ]
+  },
+  "globe flower": {
+    "super": [
+      "1. Plants\n2. Flowers\n3. Nature"
+    ],
+    "sub": [
+      "1. Trollius chinensis\n2. Trollius europaeus\n3. Trollius laxus\n4. Trollius ledebourii\n5. Trollius yunnanensis"
+    ]
+  },
+  "purple coneflower": {
+    "super": [
+      "- Plant species\n- Medicinal herbs\n- Gardening plants"
+    ],
+    "sub": [
+      "Echinacea purpurea",
+      "Echinacea pallida",
+      "Echinacea angustifolia",
+      "Echinacea paradoxa",
+      "Echinacea tennesseensis"
+    ]
+  },
+  "peruvian lily": {
+    "super": [
+      "Alstroemeria",
+      "Flowering Plants",
+      "Garden Plants"
+    ],
+    "sub": [
+      "1. Alstroemeria aurea\n2. Alstroemeria psittacina\n3. Alstroemeria pulchella\n4. Alstroemeria ligtu\n5. Alstroemeria pelegrina"
+    ]
+  },
+  "balloon flower": {
+    "super": [
+      "Perennial flowers",
+      "Ornamental plants",
+      "Summer blooming flowers"
+    ],
+    "sub": [
+      "Chinese balloon flower",
+      "Japanese balloon flower",
+      "dwarf balloon flower",
+      "blue balloon flower",
+      "white balloon flower"
+    ]
+  },
+  "giant white arum lily": {
+    "super": [
+      "Plant",
+      "Flower",
+      "Lily"
+    ],
+    "sub": [
+      "1. Giant White Arum Lily 'White Giant'\n2. Giant White Arum Lily 'Snow Queen'\n3. Giant White Arum Lily 'White Diamond'\n4. Giant White Arum Lily 'Ice Queen'\n5. Giant White Arum Lily 'Polar Star'"
+    ]
+  },
+  "fire lily": {
+    "super": [
+      "Plants",
+      "Flowers",
+      "Botany"
+    ],
+    "sub": [
+      "1. Flame Lily\n2. African Fire Lily\n3. Gloriosa Lily\n4. Guernsey Lily\n5. Firecracker Lily"
+    ]
+  },
+  "pincushion flower": {
+    "super": [
+      "Perennial Flowers",
+      "Garden Plants",
+      "Asteraceae Family"
+    ],
+    "sub": [
+      "Blue Moon pincushion flower",
+      "Butterfly Blue pincushion flower",
+      "Pink Mist pincushion flower",
+      "Bubblegum Blast pincushion flower",
+      "Spring Star pincushion flower"
+    ]
+  },
+  "fritillary": {
+    "super": [
+      "- Animals\n- Plants\n- Minerals"
+    ],
+    "sub": [
+      "1. Great Spangled Fritillary\n2. Gulf Fritillary \n3. Aphrodite Fritillary \n4. Atlantis Fritillary \n5. Callippe Fritillary"
+    ]
+  },
+  "red ginger": {
+    "super": [
+      "Flower plants",
+      "Edible plants",
+      "Ornamental plants"
+    ],
+    "sub": [
+      "Jungle King Red Ginger",
+      "Red Ginger Lily",
+      "Red Ginger Torch",
+      "Red Ginger Plant",
+      "Ostrich Plume Red Ginger"
+    ]
+  },
+  "grape hyacinth": {
+    "super": [
+      "- Plants\n- Flowers\n- Bulbs"
+    ],
+    "sub": [
+      "- Muscari armeniacum\n- Muscari botryoides\n- Muscari latifolium\n- Muscari comosum\n- Muscari aucheri"
+    ]
+  },
+  "corn poppy": {
+    "super": [
+      "Annual flowers",
+      "Wildflowers",
+      "Garden flowers"
+    ],
+    "sub": [
+      "Shirley poppy",
+      "Flanders poppy",
+      "Iceland poppy",
+      "California poppy",
+      "Oriental poppy"
+    ]
+  },
+  "prince of wales feathers": {
+    "super": [
+      "Symbols",
+      "Heraldry",
+      "Monarchy"
+    ],
+    "sub": [
+      "1. Feathered headdress\n2. Heraldic badge\n3. Brooch\n4. Pendant\n5. Earrings"
+    ]
+  },
+  "stemless gentian": {
+    "super": [
+      "Gentianaceae",
+      "Flowering Plants",
+      "Angiosperms"
+    ],
+    "sub": [
+      "- Fringed gentian\n- White stemmed gentian\n- Bottle gentian\n- Downy gentian\n- Closed gentian"
+    ]
+  },
+  "artichoke": {
+    "super": [
+      "Globe artichoke",
+      "Jerusalem artichoke",
+      "Chinese artichoke"
+    ],
+    "sub": [
+      "Green Globe",
+      "Purple Sicilian",
+      "Big Heart",
+      "Baby",
+      "Violetta"
+    ]
+  },
+  "sweet william": {
+    "super": [
+      "Ornamental plants",
+      "Flowers",
+      "Garden plants"
+    ],
+    "sub": [
+      "Scarlet Sweet William",
+      "Dianthus barbatus",
+      "Pink Sweet William",
+      "Dianthus barbatus",
+      "White Sweet William",
+      "Dianthus barbatus",
+      "Purple Sweet William",
+      "Dianthus barbatus",
+      "Double Sweet William",
+      "Dianthus barbatus"
+    ]
+  },
+  "carnation": {
+    "super": [
+      "1. Flower\n2. Plant\n3. Gardening"
+    ],
+    "sub": [
+      "1. Dwarf carnation \n2. Spray carnation \n3. Border carnation \n4. Perpetual-flowering carnation \n5. Florists' carnation"
+    ]
+  },
+  "garden phlox": {
+    "super": [
+      "Tall Phlox",
+      "Creeping Phlox",
+      "Hybrid Phlox"
+    ],
+    "sub": [
+      "Blue Paradise",
+      "David",
+      "Bright Eyes",
+      "Laura",
+      "Nicky"
+    ]
+  },
+  "love in the mist": {
+    "super": [
+      "Flowers",
+      "Plants",
+      "Gardening"
+    ],
+    "sub": [
+      "- Nigella damascena\n- Nigella hispanica\n- Nigella arvensis\n- Nigella papillosa\n- Nigella orientalis"
+    ]
+  },
+  "mexican aster": {
+    "super": [
+      "Annual Flowers",
+      "Perennials",
+      "Wildflowers"
+    ],
+    "sub": [
+      "Blue Mexican aster",
+      "White Mexican aster",
+      "Purple Mexican aster",
+      "Pink Mexican aster",
+      "Yellow Mexican aster"
+    ]
+  },
+  "alpine sea holly": {
+    "super": [
+      "Flowers",
+      "Plants",
+      "Botanicals"
+    ],
+    "sub": [
+      "Blue Glitter Sea Holly",
+      "Miss Grace Sea Holly",
+      "Big Blue Sea Holly",
+      "Sapphire Blue Sea Holly",
+      "Rattlesnake Master Sea Holly"
+    ]
+  },
+  "ruby-lipped cattleya": {
+    "super": [
+      "orchids",
+      "flowers",
+      "plants"
+    ],
+    "sub": [
+      "1. Cattleya labiata\n2. Cattleya mossiae\n3. Cattleya skinneri\n4. Cattleya dowiana\n5. Cattleya warscewiczii"
+    ]
+  },
+  "cape flower": {
+    "super": [
+      "Aizoaceae",
+      "Asteraceae",
+      "Proteaceae"
+    ],
+    "sub": [
+      "King protea",
+      "pincushion protea",
+      "blushing bride protea",
+      "sugarbush protea",
+      "pink mink protea"
+    ]
+  },
+  "great masterwort": {
+    "super": [
+      "- Plants\n- Medicinal herbs\n- Herbal remedies"
+    ],
+    "sub": [
+      "1. Astrantia major\n2. Astrantia major 'Hadspen Blood'\n3. Astrantia major 'Roma'\n4. Astrantia major 'Buckland'\n5. Astrantia major 'Shaggy'"
+    ]
+  },
+  "siam tulip": {
+    "super": [
+      "- Plants",
+      "Flowers\n- Gardening",
+      "Landscaping\n- Nature",
+      "Environment"
+    ],
+    "sub": [
+      "Pink siam tulip",
+      "White siam tulip",
+      "Purple siam tulip",
+      "Red siam tulip",
+      "Orange siam tulip"
+    ]
+  },
+  "lenten rose": {
+    "super": [
+      "Plant species",
+      "Gardening",
+      "Botany"
+    ],
+    "sub": [
+      "- Helleborus orientalis\n- Helleborus niger\n- Helleborus foetidus\n- Helleborus argutifolius\n- Helleborus lividus"
+    ]
+  },
+  "barberton daisy": {
+    "super": [
+      "African daisies",
+      "Perennial plants",
+      "Asteraceae family"
+    ],
+    "sub": [
+      "Pink Barberton Daisy",
+      "White Barberton Daisy",
+      "Yellow Barberton Daisy",
+      "Red Barberton Daisy",
+      "Orange Barberton Daisy"
+    ]
+  },
+  "daffodil": {
+    "super": [
+      "Trumpet daffodil",
+      "Double daffodil",
+      "Miniature daffodil"
+    ],
+    "sub": [
+      "Trumpet daffodil",
+      "Double daffodil",
+      "Miniature daffodil",
+      "Split-corona daffodil",
+      "Jonquil"
+    ]
+  },
+  "sword lily": {
+    "super": [
+      "Perennial Plants",
+      "Flowering Plants",
+      "Garden Plants"
+    ],
+    "sub": [
+      "Gladiolus cardinalis",
+      "Gladiolus tristis",
+      "Gladiolus communis",
+      "Gladiolus italicus",
+      "Gladiolus illyricus"
+    ]
+  },
+  "poinsettia": {
+    "super": [
+      "Euphorbia",
+      "Flowering Plants",
+      "Christmas D\u00e9cor"
+    ],
+    "sub": [
+      "Eckespoint Plum Pudding",
+      "Princettia Max White",
+      "Ice Punch",
+      "Cinnamon Star",
+      "Christmas Beauty White."
+    ]
+  },
+  "bolero deep blue": {
+    "super": [
+      "Fashion",
+      "Music",
+      "Dance"
+    ],
+    "sub": [
+      "- Bolero deep blue satin dress\n- Bolero deep blue cardigan \n- Bolero deep blue velvet jacket\n- Bolero deep blue sequined top\n- Bolero deep blue lace shrug"
+    ]
+  },
+  "wallflower": {
+    "super": [
+      "introvert",
+      "shy",
+      "reserved"
+    ],
+    "sub": [
+      "Common wallflower",
+      "Siberian wallflower",
+      "Bowles's wallflower",
+      "Prairie wallflower",
+      "Drummond's wallflower"
+    ]
+  },
+  "marigold": {
+    "super": [
+      "Annual marigolds",
+      "Perennial marigolds",
+      "French marigolds"
+    ],
+    "sub": [
+      "French marigold",
+      "African marigold",
+      "Mexican marigold",
+      "Signet marigold",
+      "Pot marigold"
+    ]
+  },
+  "buttercup": {
+    "super": [
+      "1. Plants",
+      "Flowers\n2. Fictional Characters",
+      "Media\n3. Food",
+      "Cooking"
+    ],
+    "sub": [
+      "1. Creeping buttercup\n2. Tall buttercup\n3. Bulbous buttercup\n4. Meadow buttercup\n5. Goldilocks buttercup"
+    ]
+  },
+  "oxeye daisy": {
+    "super": [
+      "Flowering Plants",
+      "Wildflowers",
+      "Perennials"
+    ],
+    "sub": [
+      "Common oxeye daisy",
+      "Shasta daisy",
+      "Moonbeam oxeye daisy",
+      "Alaska oxeye daisy",
+      "Leucanthemum x superbum"
+    ]
+  },
+  "common dandelion": {
+    "super": [
+      "Flowering Plants",
+      "Edible Plants",
+      "Medicinal Plants"
+    ],
+    "sub": [
+      "Taraxacum officinale",
+      "Taraxacum erythrospermum",
+      "Taraxacum albidum",
+      "Taraxacum ceratophorum",
+      "Taraxacum hybernum"
+    ]
+  },
+  "petunia": {
+    "super": [
+      "annuals",
+      "perennials",
+      "flowers"
+    ],
+    "sub": [
+      "Grandiflora",
+      "Multiflora",
+      "Wave",
+      "Surfinia",
+      "Supertunia"
+    ]
+  },
+  "wild pansy": {
+    "super": [
+      "- Plants",
+      "Flowers\n- Herbal Remedies",
+      "Medicinal Plants\n- Gardening",
+      "Horticulture"
+    ],
+    "sub": [
+      "Heartsease",
+      "Johnny Jump Up",
+      "Wild Violet",
+      "Love-in-Idleness",
+      "Three-colored Violet"
+    ]
+  },
+  "primula": {
+    "super": [
+      "Candelabra Primulas",
+      "Auricula Primulas",
+      "Drumstick Primulas"
+    ],
+    "sub": [
+      "Primula veris",
+      "Primula vulgaris",
+      "Primula japonica",
+      "Primula elatior",
+      "Primula denticulata"
+    ]
+  },
+  "sunflower": {
+    "super": [
+      "Annual Sunflowers",
+      "Perennial Sunflowers",
+      "Dwarf Sunflowers"
+    ],
+    "sub": [
+      "Common sunflower",
+      "Dwarf sunflower",
+      "Mexican sunflower",
+      "Jerusalem artichoke",
+      "Maximilian sunflower"
+    ]
+  },
+  "pelargonium": {
+    "super": [
+      "subshrub",
+      "succulent",
+      "aromatic"
+    ],
+    "sub": [
+      "Zonal Pelargonium",
+      "Ivy-leaved Pelargonium",
+      "Regal Pelargonium",
+      "Angel Pelargonium",
+      "Scented-leaved Pelargonium"
+    ]
+  },
+  "bishop of llandaff": {
+    "super": [
+      "- Religious Figures\n- British Clergy\n- Welsh Church Leaders"
+    ],
+    "sub": [
+      "1. Anglican\n2. Welsh\n3. Catholic\n4. Protestant\n5. Church of Wales"
+    ]
+  },
+  "gaura": {
+    "super": [
+      "Annuals",
+      "Perennials",
+      "Biennials"
+    ],
+    "sub": [
+      "Gaura lindheimeri",
+      "Gaura biennis",
+      "Gaura coccinea",
+      "Gaura parviflora",
+      "Gaura villosa"
+    ]
+  },
+  "geranium": {
+    "super": [
+      "Pelargonium",
+      "Geranium genus",
+      "Flower plant"
+    ],
+    "sub": [
+      "Zonal geranium",
+      "Ivy geranium",
+      "Scented geranium",
+      "Regal geranium",
+      "Martha Washington geranium"
+    ]
+  },
+  "orange dahlia": {
+    "super": [
+      "Orange flowers",
+      "Dahlia plants",
+      "Garden plants"
+    ],
+    "sub": [
+      "1. Cafe au Lait Orange Dahlia\n2. Melon Orange Dahlia\n3. Hot Paprika Orange Dahlia\n4. Orange Cushion Dahlia\n5. Orange County Dahlia"
+    ]
+  },
+  "pink-yellow dahlia": {
+    "super": [
+      "Flowers",
+      "Plants",
+      "Gardening"
+    ],
+    "sub": [
+      "- Pink-yellow collarette dahlia \n- Pink-yellow waterlily dahlia \n- Pink-yellow cactus dahlia \n- Pink-yellow decorative dahlia \n- Pink-yellow ball dahlia"
+    ]
+  },
+  "cautleya spicata": {
+    "super": [
+      "Herbaceous plants",
+      "Perennial plants",
+      "Ginger plants"
+    ],
+    "sub": [
+      "Orange Cane Ginger",
+      "Red Cane Ginger",
+      "Yellow Cane Ginger",
+      "Pink Cane Ginger",
+      "White Cane Ginger"
+    ]
+  },
+  "japanese anemone": {
+    "super": [
+      "White Japanese anemone",
+      "Pink Japanese anemone",
+      "Purple Japanese anemone"
+    ],
+    "sub": [
+      "Honorine Jobert",
+      "September Charm",
+      "Pamina",
+      "Whirlwind",
+      "Queen Charlotte"
+    ]
+  },
+  "black-eyed susan": {
+    "super": [
+      "1. Plants\n2. Flowers\n3. Gardening"
+    ],
+    "sub": [
+      "Goldsturm",
+      "Irish Eyes",
+      "Prairie Sun",
+      "Denver Daisy",
+      "Rudbeckia triloba"
+    ]
+  },
+  "silverbush": {
+    "super": [
+      "- Plant species\n- Gardening\n- Landscaping"
+    ],
+    "sub": [
+      "1. Snow-in-summer silverbush\n2. Silver bush clover\n3. Silver bush lupine\n4. Silver bush honeysuckle\n5. Silver bush sage"
+    ]
+  },
+  "californian poppy": {
+    "super": [
+      "Annual plants",
+      "Medicinal herbs",
+      "Wildflowers"
+    ],
+    "sub": [
+      "- Eschscholzia californica\n- Red Chief California Poppy\n- Ivory Castle California Poppy\n- Purple Gleam California Poppy\n- Thai Silk California Poppy"
+    ]
+  },
+  "osteospermum": {
+    "super": [
+      "Annuals",
+      "Perennials",
+      "Shrubs"
+    ],
+    "sub": [
+      "Purple Sun",
+      "Voltage Yellow",
+      "Pink Whirls",
+      "Akila Grand Canyon",
+      "Lemon Symphony"
+    ]
+  },
+  "spring crocus": {
+    "super": [
+      "Crocus vernus",
+      "Crocus chrysanthus",
+      "Crocus tommasinianus"
+    ],
+    "sub": [
+      "1. Dutch crocus\n2. Snow crocus\n3. Tommasini's crocus\n4. Cloth of gold crocus\n5. Ruby giant crocus"
+    ]
+  },
+  "bearded iris": {
+    "super": [
+      "Tall Bearded Iris",
+      "Intermediate Bearded Iris",
+      "Dwarf Bearded Iris"
+    ],
+    "sub": [
+      "German bearded iris",
+      "Siberian bearded iris",
+      "Japanese bearded iris",
+      "Louisiana bearded iris",
+      "Pacific Coast bearded iris"
+    ]
+  },
+  "windflower": {
+    "super": [
+      "Perennials",
+      "Bulbs",
+      "Wildflowers"
+    ],
+    "sub": [
+      "Anemone blanda",
+      "Anemone nemorosa",
+      "Anemone hupehensis",
+      "Anemone sylvestris",
+      "Anemone coronaria"
+    ]
+  },
+  "tree poppy": {
+    "super": [
+      "Shrubs",
+      "Flowers",
+      "Plants"
+    ],
+    "sub": [
+      "Island tree poppy",
+      "Orange tree poppy",
+      "California tree poppy",
+      "Matilija poppy",
+      "Mexican tree poppy"
+    ]
+  },
+  "gazania": {
+    "super": [
+      "Annuals",
+      "Perennials",
+      "Groundcovers"
+    ],
+    "sub": [
+      "Gazania rigens",
+      "Gazania linearis",
+      "Gazania krebsiana",
+      "Gazania splendens",
+      "Gazania ciliate"
+    ]
+  },
+  "azalea": {
+    "super": [
+      "Rhododendron",
+      "Flowering Shrub",
+      "Garden Plant"
+    ],
+    "sub": [
+      "Dwarf azalea",
+      "Encore azalea",
+      "Flame azalea",
+      "Rhododendron 'Homebush'",
+      "Satsuki azalea"
+    ]
+  },
+  "water lily": {
+    "super": [
+      "Nymphaea",
+      "Nelumbo",
+      "Euryale"
+    ],
+    "sub": [
+      "White water lily",
+      "Blue water lily",
+      "Red water lily",
+      "Yellow water lily",
+      "Pink water lily"
+    ]
+  },
+  "rose": {
+    "super": [
+      "Floriculture",
+      "Botany",
+      "Symbolism"
+    ],
+    "sub": [
+      "Red Rose",
+      "Pink Rose",
+      "White Rose",
+      "Yellow Rose",
+      "Purple Rose"
+    ]
+  },
+  "thorn apple": {
+    "super": [
+      "Plants",
+      "Poisonous plants",
+      "Medicinal plants"
+    ],
+    "sub": [
+      "Datura stramonium",
+      "Datura metel",
+      "Datura innoxia",
+      "Datura wrightii",
+      "Datura discolor"
+    ]
+  },
+  "morning glory": {
+    "super": [
+      "Common morning glory",
+      "Tall morning glory",
+      "Ground morning glory"
+    ],
+    "sub": [
+      "- Heavenly Blue Morning Glory\n- Scarlet O'Hara Morning Glory\n- Grandpa Ott's Morning Glory\n- Moonflower Morning Glory\n- Blue Star Morning Glory"
+    ]
+  },
+  "passion flower": {
+    "super": [
+      "Maypop",
+      "Incense Passion Flower",
+      "Lady Margaret Passion Flower",
+      "Blue Passion Flower"
+    ],
+    "sub": [
+      "Blue passion flower",
+      "Maypop",
+      "Purple passion flower",
+      "Yellow passion flower",
+      "Giant granadilla"
+    ]
+  },
+  "lotus": {
+    "super": [
+      "water lilies",
+      "plants",
+      "flowers"
+    ],
+    "sub": [
+      "sacred lotus",
+      "blue lotus",
+      "white lotus",
+      "pink lotus",
+      "Egyptian blue lotus"
+    ]
+  },
+  "toad lily": {
+    "super": [
+      "- Plant\n- Flower\n- Perennial"
+    ],
+    "sub": [
+      "Hirta",
+      "Sinensis",
+      "Blue Wonder",
+      "Purple Beauty",
+      "White Towers"
+    ]
+  },
+  "anthurium": {
+    "super": [
+      "flowers",
+      "plants",
+      "tropical species"
+    ],
+    "sub": [
+      "Anthurium clarinervium",
+      "Anthurium warocqueanum",
+      "Anthurium veitchii",
+      "Anthurium regale",
+      "Anthurium crystallinum"
+    ]
+  },
+  "frangipani": {
+    "super": [
+      "Flowers",
+      "Plants",
+      "Trees"
+    ],
+    "sub": [
+      "1. Plumeria rubra\n2. Plumeria obtusa\n3. Plumeria alba\n4. Plumeria pudica\n5. Plumeria acuminata"
+    ]
+  },
+  "clematis": {
+    "super": [
+      "Evergreen Clematis",
+      "Herbaceous Clematis",
+      "Woody Clematis"
+    ],
+    "sub": [
+      "Jackmanii",
+      "Nelly Moser",
+      "Star of India",
+      "Sweet Autumn",
+      "Pink Champagne"
+    ]
+  },
+  "hibiscus": {
+    "super": [
+      "Shrubs",
+      "Flowers",
+      "Plants"
+    ],
+    "sub": [
+      "Chinese hibiscus",
+      "Rose mallow",
+      "Swamp rose mallow",
+      "Scarlet rosemallow",
+      "Hawaiian hibiscus"
+    ]
+  },
+  "columbine": {
+    "super": [
+      "Perennials",
+      "Flowers",
+      "Plants"
+    ],
+    "sub": [
+      "1. Aquilegia canadensis\n2. Aquilegia vulgaris\n3. Aquilegia caerulea\n4. Aquilegia formosa\n5. Aquilegia chrysantha"
+    ]
+  },
+  "desert-rose": {
+    "super": [
+      "Minerals",
+      "Crystals",
+      "Succulents"
+    ],
+    "sub": [
+      "Selenite desert rose",
+      "Barite desert rose",
+      "Gypsum desert rose",
+      "Iron-rich desert rose",
+      "Baryte desert rose"
+    ]
+  },
+  "tree mallow": {
+    "super": [
+      "Shrubs",
+      "Trees",
+      "Flowering Plants"
+    ],
+    "sub": [
+      "Lavatera arborea",
+      "Lavatera assurgentiflora",
+      "Lavatera thuringiaca",
+      "Lavatera trimestris",
+      "Lavatera cachemiriana"
+    ]
+  },
+  "magnolia": {
+    "super": [
+      "Evergreen trees",
+      "Flowering shrubs",
+      "Ornamental plants"
+    ],
+    "sub": [
+      "Southern magnolia",
+      "saucer magnolia",
+      "sweetbay magnolia",
+      "Japanese magnolia",
+      "star magnolia"
+    ]
+  },
+  "cyclamen": {
+    "super": [
+      "Tuberous plants",
+      "Indoor plants",
+      "Perennial plants"
+    ],
+    "sub": [
+      "Persicum",
+      "hederifolium",
+      "coum",
+      "graecum",
+      "africanum"
+    ]
+  },
+  "watercress": {
+    "super": [
+      "- Vegetable\n- Leafy green\n- Aquatic plant"
+    ],
+    "sub": [
+      "1. Upland cress\n2. Garden cress\n3. Persian cress\n4. Vietnamese watercress\n5. Indian cress"
+    ]
+  },
+  "canna lily": {
+    "super": [
+      "Tropical plants",
+      "Flowering plants",
+      "Perennials"
+    ],
+    "sub": [
+      "1. Pretoria canna lily\n2. Tropicanna canna lily\n3. Wyoming canna lily\n4. Bengal tiger canna lily\n5. Black knight canna lily"
+    ]
+  },
+  "hippeastrum": {
+    "super": [
+      "Trumpet",
+      "Double",
+      "Miniature"
+    ],
+    "sub": [
+      "Apple Blossom",
+      "Black Pearl",
+      "Red Lion",
+      "Lemon Star",
+      "Double Dragon"
+    ]
+  },
+  "bee balm": {
+    "super": [
+      "Monarda",
+      "Herbal Remedies",
+      "Gardening"
+    ],
+    "sub": [
+      "Lemon bee balm",
+      "Scarlet bee balm",
+      "Purple bee balm",
+      "Spotted bee balm",
+      "Wild bergamot"
+    ]
+  },
+  "ball moss": {
+    "super": [
+      "epiphytes",
+      "bromeliads",
+      "air plants"
+    ],
+    "sub": [
+      "Tillandsia recurvata",
+      "Tillandsia bulbosa",
+      "Tillandsia streptophylla",
+      "Tillandsia usneoides",
+      "Tillandsia fasciculata"
+    ]
+  },
+  "foxglove": {
+    "super": [
+      "Flowers",
+      "Plants",
+      "Medicinal herbs"
+    ],
+    "sub": [
+      "Common foxglove",
+      "Digitalis purpurea",
+      "Strawberry foxglove",
+      "Digitalis lutea",
+      "Rusty foxglove",
+      "Digitalis ferruginea",
+      "Woolly foxglove",
+      "Digitalis lanata"
+    ]
+  },
+  "bougainvillea": {
+    "super": [
+      "Flowering plants",
+      "Ornamental plants",
+      "Vines"
+    ],
+    "sub": [
+      "Barbara Karst",
+      "Royal Purple",
+      "Golden Glow",
+      "Raspberry Ice",
+      "California Gold"
+    ]
+  },
+  "camellia": {
+    "super": [
+      "Shrubs",
+      "Flowers",
+      "Plants"
+    ],
+    "sub": [
+      "Camellia japonica",
+      "Camellia sasanqua",
+      "Camellia reticulata",
+      "Camellia sinensis",
+      "Camellia oleifera"
+    ]
+  },
+  "mallow": {
+    "super": [
+      "Althaea, Lavatera,",
+      "Callirhoe"
+    ],
+    "sub": [
+      "Marshmallow",
+      "Althaea officinalis",
+      "Lavatera",
+      "Malva sylvestris",
+      "Hibiscus"
+    ]
+  },
+  "mexican petunia": {
+    "super": [
+      "Plant",
+      "Flower",
+      "Perennial"
+    ],
+    "sub": [
+      "Mexican petunia 'Purple Showers'",
+      "Mexican petunia 'Katie'",
+      "Mexican petunia 'Burgundy'",
+      "Mexican petunia 'Pink Showers'",
+      "Mexican petunia 'Midnight'"
+    ]
+  },
+  "bromelia": {
+    "super": [
+      "Aechmea",
+      "Guzmania",
+      "Neoregelia"
+    ],
+    "sub": [
+      "1. Aechmea\n2. Guzmania\n3. Neoregelia\n4. Tillandsia\n5. Vriesea"
+    ]
+  },
+  "blanket flower": {
+    "super": [
+      "Perennial flowers",
+      "Wildflowers",
+      "Native plants"
+    ],
+    "sub": [
+      "Goblin, Arizona Sun, Burgundy, Mesa Yellow, Gallo"
+    ]
+  },
+  "trumpet creeper": {
+    "super": [
+      "Plants",
+      "Flowers",
+      "Vines"
+    ],
+    "sub": [
+      "1. Campsis radicans\n2. Campsis grandiflora\n3. Campsis x tagliabuana\n4. Campsis chinensis\n5. Campsis ignea"
+    ]
+  },
+  "blackberry lily": {
+    "super": [
+      "Plant",
+      "Flower",
+      "Perennial"
+    ],
+    "sub": [
+      "Cherrystone Blackberry Lily",
+      "Hello Yellow Blackberry Lily",
+      "Freckle Face Blackberry Lily",
+      "Apricot Pixie Blackberry Lily",
+      "Raspberry Pixie Blackberry Lily"
+    ]
+  }
+}

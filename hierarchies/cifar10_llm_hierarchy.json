@@ -1,0 +1,138 @@
+{
+  "airplane": {
+    "super": [
+      "Commercial airliners",
+      "Military jets",
+      "Private planes"
+    ],
+    "sub": [
+      "Boeing 747",
+      "Cessna 172",
+      "Airbus A380",
+      "Piper Cub",
+      "Lockheed C-130"
+    ]
+  },
+  "automobile": {
+    "super": [
+      "Sedans",
+      "SUVs",
+      "Trucks"
+    ],
+    "sub": [
+      "sedan",
+      "SUV",
+      "coupe",
+      "convertible",
+      "minivan"
+    ]
+  },
+  "bird": {
+    "super": [
+      "Land Birds",
+      "Water Birds",
+      "Birds of Prey"
+    ],
+    "sub": [
+      "Cardinal",
+      "Blue Jay",
+      "Robin",
+      "Sparrow",
+      "Hummingbird"
+    ]
+  },
+  "cat": {
+    "super": [
+      "domestic cat",
+      "wild cat",
+      "big cat"
+    ],
+    "sub": [
+      "Siamese",
+      "Persian",
+      "Maine Coon",
+      "Scottish Fold",
+      "Bengal"
+    ]
+  },
+  "deer": {
+    "super": [
+      "Cervidae",
+      "Capreolinae",
+      "Cervinae"
+    ],
+    "sub": [
+      "White-tailed deer",
+      "Mule deer",
+      "Roe deer",
+      "Red deer",
+      "Fallow deer"
+    ]
+  },
+  "dog": {
+    "super": [
+      "Working dogs",
+      "Companion dogs",
+      "Sporting dogs"
+    ],
+    "sub": [
+      "Golden Retriever",
+      "German Shepherd",
+      "Poodle",
+      "Labrador Retriever",
+      "Bulldog"
+    ]
+  },
+  "frog": {
+    "super": [
+      "Tree frogs",
+      "Toads",
+      "Aquatic frogs"
+    ],
+    "sub": [
+      "1. Green tree frog\n2. Poison dart frog\n3. Bullfrog\n4. Red-eyed tree frog\n5. Glass frog"
+    ]
+  },
+  "horse": {
+    "super": [
+      "Mammal",
+      "Equine",
+      "Domesticated"
+    ],
+    "sub": [
+      "Thoroughbred",
+      "Quarter Horse",
+      "Arabian",
+      "Clydesdale",
+      "Mustang"
+    ]
+  },
+  "ship": {
+    "super": [
+      "military",
+      "commercial",
+      "personal"
+    ],
+    "sub": [
+      "Sailboat",
+      "Cruise ship",
+      "Battleship",
+      "Container ship",
+      "Fishing boat"
+    ]
+  },
+  "truck": {
+    "super": [
+      "Pickup",
+      "Semi-truck",
+      "Dump truck"
+    ],
+    "sub": [
+      "pickup truck",
+      "semi-truck",
+      "dump truck",
+      "box truck",
+      "tow truck"
+    ]
+  }
+}

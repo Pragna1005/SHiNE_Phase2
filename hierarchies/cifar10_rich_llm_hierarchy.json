@@ -1,0 +1,185 @@
+{
+  "airplane": {
+    "super": [
+      "Military airplanes",
+      "Commercial airplanes",
+      "Private airplanes",
+      "Passenger airplanes",
+      "Cargo airplanes"
+    ],
+    "sub": [
+      "1. Commercial jet\n2. Private jet\n3. Cargo plane\n4. Military fighter jet\n5. Helicopter\n6. Glider\n7. Seaplane\n8. Crop duster\n9. Amphibious aircraft\n10. Biplane"
+    ]
+  },
+  "automobile": {
+    "super": [
+      "Sedan",
+      "SUV",
+      "Truck",
+      "Van",
+      "Motorcycle"
+    ],
+    "sub": [
+      "sedan",
+      "SUV",
+      "convertible",
+      "hatchback",
+      "minivan",
+      "pickup truck",
+      "sports car",
+      "crossover",
+      "electric car",
+      "luxury car"
+    ]
+  },
+  "bird": {
+    "super": [
+      "Songbirds",
+      "Raptors",
+      "Waterfowl",
+      "Gamebirds",
+      "Seabirds"
+    ],
+    "sub": [
+      "Robin",
+      "Blue Jay",
+      "Sparrow",
+      "Cardinal",
+      "Eagle",
+      "Owl",
+      "Pigeon",
+      "Hummingbird",
+      "Woodpecker",
+      "Seagull"
+    ]
+  },
+  "cat": {
+    "super": [
+      "Domestic Cat",
+      "Big Cat",
+      "Wild Cat",
+      "Feral Cat",
+      "Hybrid Cat"
+    ],
+    "sub": [
+      "Tabby",
+      "Siamese",
+      "Persian",
+      "Maine Coon",
+      "Ragdoll",
+      "Scottish Fold",
+      "Bengal",
+      "Sphynx",
+      "Russian Blue",
+      "Burmese"
+    ]
+  },
+  "deer": {
+    "super": [
+      "Reindeer",
+      "Elk",
+      "Mule deer",
+      "White-tailed deer",
+      "Red deer"
+    ],
+    "sub": [
+      "White-tailed deer",
+      "Mule deer",
+      "Red deer",
+      "Roe deer",
+      "Fallow deer",
+      "Sika deer",
+      "Axis deer",
+      "Reindeer",
+      "Elk",
+      "Moose"
+    ]
+  },
+  "dog": {
+    "super": [
+      "Toy",
+      "Terrier",
+      "Sporting",
+      "Working",
+      "Hound"
+    ],
+    "sub": [
+      "Labrador Retriever",
+      "German Shepherd",
+      "Poodle",
+      "Bulldog",
+      "Beagle",
+      "Golden Retriever",
+      "Dachshund",
+      "Rottweiler",
+      "Siberian Husky",
+      "Boxer"
+    ]
+  },
+  "frog": {
+    "super": [
+      "tree frog",
+      "poison dart frog",
+      "bullfrog",
+      "tree frog",
+      "true frog"
+    ],
+    "sub": [
+      "1. American green tree frog\n2. Poison dart frog\n3. African bullfrog\n4. Red-eyed tree frog\n5. Glass frog\n6. Pacman frog\n7. Cuban tree frog\n8. Leopard frog\n9. Golden poison frog\n10. Budgett's frog"
+    ]
+  },
+  "horse": {
+    "super": [
+      "Arabian",
+      "Thoroughbred",
+      "Mustang",
+      "Pony",
+      "Draft"
+    ],
+    "sub": [
+      "Thoroughbred",
+      "Arabian",
+      "Quarter Horse",
+      "Clydesdale",
+      "Friesian",
+      "Andalusian",
+      "Mustang",
+      "Shetland Pony",
+      "Appaloosa",
+      "Percheron"
+    ]
+  },
+  "ship": {
+    "super": [
+      "Fishing ship",
+      "Cargo ship",
+      "Naval ship",
+      "Passenger ship",
+      "Recreational ship"
+    ],
+    "sub": [
+      "1. Cruise ship\n2. Cargo ship\n3. Battleship\n4. Fishing ship\n5. Sailing ship\n6. Container ship\n7. Oil tanker\n8. Yacht\n9. Research ship\n10. Ferry ship"
+    ]
+  },
+  "truck": {
+    "super": [
+      "Pickup truck",
+      "Semi-truck",
+      "Dump truck",
+      "Tow truck",
+      "Box truck"
+    ],
+    "sub": [
+      "pickup truck",
+      "dump truck",
+      "semi-truck",
+      "tow truck",
+      "box truck",
+      "food truck",
+      "tanker truck",
+      "garbage truck",
+      "flatbed truck",
+      "fire truck"
+    ]
+  }
+}
