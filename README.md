@@ -1,14 +1,11 @@
 # SHiNe: Semantic Hierarchy Nexus for Open-Vocabulary Object Detection
-### Phase 2 — Reproduction and Novel Contributions
+### Phase 2 — Reproduced the results and Novel Contributions
 **CVPR 2024 Highlight** | Liu, Hayes, Ricci, Csurka, Volpi
 
 ---
 
-## 📺 Demo Video
+## Demo Video
 [YouTube Link](https://youtube.com/YOUR_LINK)
-
-## 📄 Report
-[Download PDF](report/SHiNe_Phase2_Report.pdf)
 
 ---
 
@@ -27,7 +24,7 @@ mAP50 with zero inference overhead.
 
 ## Our Contributions
 
-| # | Contribution | Description |
+| # | Contributions | Description |
 |---|---|---|
 | 1 | DAG Hierarchy | ALL WordNet paths vs paper's single tree path |
 | 2 | Weighted Mean | Leaf-biased aggregation weights |
@@ -61,13 +58,9 @@ mAP50 with zero inference overhead.
 
 ## How to Run
 
-### Option 1 — Google Colab (Recommended)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/SHiNe-Phase2/blob/main/notebooks/SHiNe_Phase2_Complete_Final.ipynb)
-
-1. Open the notebook link above
-2. Set your OpenAI API key in Cell 3 (optional — needed only for LLM hierarchy)
+1. Open the notebook in google colab
+2. Set your OpenAI API key in Cell 3 (optional —-needed only for LLM hierarchy)
 3. Runtime → Run All
-4. Total runtime: ~25 minutes on T4 GPU
 
 ### Option 2 — Local
 ```bash
